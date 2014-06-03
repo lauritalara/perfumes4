@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+
+#divtablap{width:1490px; height:300px; margin-left:5px; background-color:#FFF; border-top:ridge; border-right:dashed; border-left:double; border-bottom: solid; text-align:center;}
+#divper{width:250px; margin:10px; height: 250px; background-color:#f00; float:left; text-align:center;}
+#divper1{width:250px; margin:10px; height: 250px; background-color:#FFC; float:left; text-align:center;}
+#divdes{width:400px; margin:10px; height: 250px; background-color:#3CF; float:left; text-align:center;}
+#divpre{width:400px; margin:10px; height: 250px; background-color:#FCF; float:left; text-align:center;}
